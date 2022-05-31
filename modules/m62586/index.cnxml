@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Tubular Reabsorption</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62586</md:content-id>
+  <md:title>Tubular Reabsorption</md:title>
+  <md:abstract/>
+  <md:uuid>513844cb-fc03-4021-8611-fef1b0b25582</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2785110">With up to 180 liters per day passing through the nephrons of the kidney, it is quite obvious that most of that fluid and its contents must be reabsorbed. That recovery occurs in the PCT, loop of Henle, DCT, and the collecting ducts (<link target-id="tbl-ch26_05" document=""/> and <link target-id="fig-ch26_06_01" document=""/>). Various portions of the nephron differ in their capacity to reabsorb water and specific solutes. While much of the reabsorption and secretion occur passively based on concentration gradients, the amount of water that is reabsorbed or lost is tightly regulated. This control is exerted directly by ADH and aldosterone, and indirectly by renin. Most water is recovered in the PCT, loop of Henle, and DCT. About 10 percent (about 18 L) reaches the collecting ducts. The collecting ducts, under the influence of ADH, can recover almost all of the water passing through them, in cases of dehydration, or almost none of the water, in cases of over-hydration.</para>
+<figure id="fig-ch26_06_01"><title>Locations of Secretion and Reabsorption in the Nephron </title><media id="fs-id2639454" alt="This diagram shows the different ions and chemicals that are secreted and reabsorbed along the nephron. Arrows show the direction of the movement of the substance.">
+<image mime-type="image/jpg" src="../../media/2618_Nephron_Secretion_Reabsorption.jpg" width="280"/>
+</media>
+</figure><table id="tbl-ch26_05" summary="">
+<tgroup cols="5" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5">Substances Secreted or Reabsorbed in the Nephron and Their Locations</entry>
+</row>
+<row>
+<entry>Substance</entry>
+<entry>PCT</entry>
+<entry>Loop of Henle</entry>
+<entry>DCT</entry>
+<entry>Collecting ducts</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Glucose</entry>
+<entry>Almost 100 percent reabsorbed; secondary active transport with Na<sup>+</sup></entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Oligopeptides, proteins, amino acids</entry>
+<entry>Almost 100 percent reabsorbed; symport with Na<sup>+</sup></entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Vitamins</entry>
+<entry>Reabsorbed</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Lactate</entry>
+<entry>Reabsorbed</entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Creatinine</entry>
+<entry>Secreted </entry>
+<entry/>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry>Urea</entry>
+<entry>50 percent reabsorbed by diffusion; also secreted</entry>
+<entry>Secretion, diffusion in descending limb</entry>
+<entry/>
+<entry>Reabsorption in medullary collecting ducts; diffusion</entry>
+</row>
+<row>
+<entry>Sodium</entry>
+<entry>65 percent actively reabsorbed</entry>
+<entry>25 percent reabsorbed in thick ascending limb; active transport</entry>
+<entry>5 percent reabsorbed; active</entry>
+<entry>5 percent reabsorbed, stimulated by aldosterone; active</entry>
+</row>
+<row>
+<entry>Chloride</entry>
+<entry>Reabsorbed, symport with Na<sup>+</sup>, diffusion</entry>
+<entry>Reabsorbed in thin and thick ascending limb; diffusion in ascending limb</entry>
+<entry>Reabsorbed; diffusion</entry>
+<entry>Reabsorbed; symport</entry>
+</row>
+<row>
+<entry>Water</entry>
+<entry>67 percent reabsorbed osmotically with solutes</entry>
+<entry>15 percent reabsorbed in descending limb; osmosis</entry>
+<entry>8 percent reabsorbed if ADH; osmosis</entry>
+<entry>Variable amounts reabsorbed, controlled by ADH, osmosis</entry>
+</row>
+<row>
+<entry>Bicarbonate</entry>
+<entry>80–90 percent symport reabsorption with Na<sup>+</sup></entry>
+<entry>Reabsorbed, symport with Na<sup>+</sup> and antiport with Cl<sup>–</sup>; in ascending limb</entry>
+<entry/>
+<entry>Reabsorbed antiport with Cl<sup>–</sup></entry>
+</row>
+<row>
+<entry>H<sup>+</sup></entry>
+<entry>Secreted; diffusion</entry>
+<entry/>
+<entry>Secreted; active</entry>
+<entry>Secreted; active</entry>
+</row>
+<row>
+<entry>NH<sub>4</sub><sup>+</sup></entry>
+<entry>Secreted; diffusion</entry>
+<entry/>
+<entry>Secreted; diffusion</entry>
+<entry>Secreted; diffusion</entry>
+</row>
+<row>
+<entry>HCO<sub>3</sub><sup>–</sup></entry>
+<entry>Reabsorbed; diffusion</entry>
+<entry>Reabsorbed; diffusion in ascending limb</entry>
+<entry>Reabsorbed; diffusion</entry>
+<entry>Reabsorbed; antiport with Na<sup>+</sup></entry>
+</row>
+<row>
+<entry>Some drugs</entry>
+<entry>Secreted </entry>
+<entry/>
+<entry>Secreted; active</entry>
+<entry>Secreted; active</entry>
+</row>
+<row>
+<entry>Potassium</entry>
+<entry>65 percent reabsorbed; diffusion</entry>
+<entry>20 percent reabsorbed in thick ascending limb; symport</entry>
+<entry>Secreted; active</entry>
+<entry>Secretion controlled by aldosterone; active</entry>
+</row>
+<row>
+<entry>Calcium</entry>
+<entry>Reabsorbed; diffusion</entry>
+<entry>Reabsorbed in thick ascending limb; diffusion</entry>
+<entry/>
+<entry>Reabsorbed if parathyroid hormone present; active</entry>
+</row>
+<row>
+<entry>Magnesium</entry>
+<entry>Reabsorbed; diffusion</entry>
+<entry>Reabsorbed in thick ascending limb; diffusion</entry>
+<entry>Reabsorbed</entry>
+<entry/>
+</row>
+<row>
+<entry>Phosphate</entry>
+<entry>85 percent reabsorbed, inhibited by parathyroid hormone, diffusion</entry>
+<entry/>
+<entry>Reabsorbed; diffusion</entry>
+<entry/>
+</row>
+</tbody>
+</tgroup>
+</table>
+</content>
+<glossary>
+<definition id="fs-id1165447849205"><term>countercurrent multiplier system</term> <meaning id="fs-id1165447849209">involves the descending and ascending loops of Henle directing forming urine in opposing directions to create a concentration gradient when combined with variable permeability and sodium pumping</meaning></definition>
+<definition id="fs-id1165447837707"><term>glycosuria</term> <meaning id="fs-id1165447837711">presence of glucose in the urine; caused by high blood glucose levels that exceed the ability of the kidneys to reabsorb the glucose; usually the result of untreated or poorly controlled diabetes mellitus</meaning></definition>
+<definition id="fs-id1165447772393"><term>intercalated cell</term> <meaning id="fs-id1165447772397">specialized cell of the collecting ducts that secrete or absorb acid or bicarbonate; important in acid–base balance</meaning></definition>
+<definition id="fs-id1165447860978"><term>leaky tight junctions</term> <meaning id="fs-id1165447860982">tight junctions in which the sealing strands of proteins between the membranes of adjacent cells are fewer in number and incomplete; allows limited intercellular movement of solvent and solutes</meaning></definition>
+<definition id="fs-id1165447826309"><term>principal cell</term> <meaning id="fs-id1165447826313">found in collecting ducts and possess channels for the recovery or loss of sodium and potassium; under the control of aldosterone; also have aquaporin channels under ADH control to regulate recovery of water</meaning></definition>
+</glossary>
+</document>

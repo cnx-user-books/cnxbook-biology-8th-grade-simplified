@@ -1,0 +1,159 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Barrier Defenses and the Innate Immune Response</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62168</md:content-id>
+  <md:title>Barrier Defenses and the Innate Immune Response</md:title>
+  <md:abstract/>
+  <md:uuid>80d13e43-cf04-4585-8ae8-2a2c9d1b26ea</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2020400">The immune system can be divided into two related mechanisms to kill pathogens: the innate immune response, which is relatively rapid but nonspecific and thus not always effective, and the adaptive immune response, which is slower in its development during an initial infection with a pathogen, but is highly specific and effective at attacking a wide range of pathogens (<link target-id="fig-ch22_02_01" document=""/>).</para><figure id="fig-ch22_02_01"><title>Cooperation between Innate and Adaptive Immune Responses </title><media id="fs-id1883630" alt="This figure shows a lateral view of a human face in the top left. A magnified callout shows the germinal center of the palatine tonsil. Another magnified view shows how the innate immune system works.">
+<image mime-type="image/jpg" src="../../media/2211_Cooperation_Between_Innate_and_Immune_Responses.jpg" width="550"/>
+</media>
+<caption>The innate immune system enhances adaptive immune responses so they can be more effective.</caption></figure><table id="tbl-ch22_02" summary="">
+<tgroup cols="3" align="left">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Barrier Defenses</entry>
+</row>
+<row>
+<entry>Site</entry>
+<entry>Specific defense</entry>
+<entry>Protective aspect</entry>
+</row>
+</thead>
+<tbody>
+<row><entry>Skin</entry>
+<entry>Epidermal surface</entry>
+<entry>Keratinized cells of surface, Langerhans cells</entry>
+</row>
+<row>
+<entry>Skin (sweat/secretions)</entry>
+<entry>Sweat glands, sebaceous glands</entry>
+<entry>Low pH, washing action</entry>
+</row>
+<row>
+<entry>Oral cavity</entry>
+<entry>Salivary glands</entry>
+<entry>Lysozyme</entry>
+</row>
+<row>
+<entry>Stomach</entry>
+<entry>Gastrointestinal tract</entry>
+<entry>Low pH</entry>
+</row>
+<row>
+<entry>Mucosal surfaces</entry>
+<entry>Mucosal epithelium</entry>
+<entry>Nonkeratinized epithelial cells</entry>
+</row>
+<row>
+<entry>Normal flora (nonpathogenic bacteria)</entry>
+<entry>Mucosal tissues</entry>
+<entry>Prevent pathogens from growing on mucosal surfaces</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<section id="fs-id1700696">
+<title>Cells of the Innate Immune Response</title>
+<para id="fs-id2305166">A phagocyte is a cell that can surround and engulf a particle or cell, a process called <term>phagocytosis</term>. The phagocytes of the immune system engulf other particles or cells, either to clean an area of pieces of cells, old cells, or to kill pathogenic organisms such as bacteria. The phagocytes are the body’s fast acting, first line of immunological defense against organisms that have broken into barrier defenses and have entered the capable of being hurt tissues of the body.</para><table id="eip-271" summary="Table 2">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+
+<thead>
+<row>
+<entry namest="c1" nameend="c4">Phagocytic Cells of the Innate Immune System</entry>
+</row>
+<row>
+<entry>Cell</entry>
+<entry>Cell type</entry>
+<entry>Primary location</entry>
+<entry>Function in the innate immune response</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Macrophage</entry>
+<entry>Agranulocyte</entry>
+<entry>Body cavities/organs</entry>
+<entry>Phagocytosis</entry>
+</row>
+<row>
+<entry>Neutrophil</entry>
+<entry>Granulocyte</entry>
+<entry>Blood</entry>
+<entry>Phagocytosis</entry>
+</row>
+<row>
+<entry>Monocyte</entry>
+<entry>Agranulocyte</entry>
+<entry>Blood</entry>
+<entry>Precursor of macrophage/dendritic cell</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table></section>
+<note id="eip-843"><label/>
+<media id="fs-id2637655" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/chemotaxis.png" width="120"/>
+</media>
+<para id="fs-id1961011">Visit this <link url="http://openstaxcollege.org/l/chemotaxis">website</link> to learn about phagocyte chemotaxis. Phagocyte chemotaxis is the movement of phagocytes according to the secretion of chemical messengers in the form of interleukins and other chemokines. By what means does a phagocyte destroy a bacterium that it has ingested?</para>
+</note><para id="eip-301">Overall, inflammation is valuable for many reasons. Not only are the pathogens killed and debris removed, but the increase in vascular permeability encourages the entry of clotting factors, the first step towards wound repair. Inflammation also facilitates the transport of antigen to lymph nodes by dendritic cells for the development of the adaptive immune response.</para><section id="fs-id2272002" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1379259">Innate immune responses are critical to the early control of infections. Whereas barrier defenses are the body’s first line of physical defense against pathogens, innate immune responses are the first line of physiological defense. Innate responses occur rapidly, but with less specificity and effectiveness than the adaptive immune response. Innate responses can be caused by a variety of cells, mediators, and antibacterial proteins such as complement. Within the first few days of an infection, another series of antibacterial proteins are induced, each with activities against certain bacteria, including opsonization of certain species. Additionally, interferons are induced that protect cells from viruses in their vicinity. Finally, the innate immune response does not stop when the adaptive immune response is developed. In fact, both can cooperate and one can influence the other in their responses against pathogens.</para>
+</section>
+<section id="fs-id1431252" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id1890725">
+<problem id="fs-id1887337"><para id="fs-id2019619">Visit this <link url="http://openstaxcollege.org/l/chemotaxis">website</link> to learn about phagocyte chemotaxis. Phagocyte chemotaxis is the movement of phagocytes according to the secretion of chemical messengers in the form of interleukins and other chemokines. By what means does a phagocyte destroy a bacterium that it has ingested?</para></problem>
+<solution id="fs-id2033350">
+<label/>
+<para id="fs-id1481768">The bacterium is digested by the phagocyte’s digestive enzymes (contained in its lysosomes).</para></solution></exercise>
+</section>
+<section id="fs-id1382930" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1635877">
+<problem id="fs-id2204645"><para id="fs-id1491004">Describe the process of inflammation in an area that has been traumatized, but not infected.</para></problem>
+<solution id="fs-id2081144"><label/>
+<para id="fs-id1926538">The cell debris and damaged cells induce macrophages to begin to clean them up. Macrophages release cytokines that attract neutrophils, followed by more macrophages. Other mediators released by mast cells increase blood flow to the area and also vascular permeability, allowing the recruited cells to get from the blood to the site of infection, where they can phagocytose the dead cells and debris, preparing the site for wound repair.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1363654">
+<problem id="fs-id1321490"><para id="fs-id1321491">Describe two early induced responses and what pathogens they affect.</para></problem>
+<solution id="fs-id1604602"><label/>
+<para id="fs-id1632351">Interferons are produced in virally infected cells and cause them to secrete signals for surrounding cells to make antiviral proteins. C-reactive protein is induced to be made by the liver and will opsonize certain species of bacteria.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2242286"><term>acute inflammation</term> <meaning id="fs-id2020286">inflammation occurring for a limited time period; rapidly developing</meaning></definition>
+<definition id="fs-id1374580"><term>chemokine</term> <meaning id="fs-id1636153">soluble, long-range, cell-to-cell communication molecule</meaning></definition>
+<definition id="fs-id1926765"><term>chronic inflammation</term> <meaning id="fs-id1645564">inflammation occurring for long periods of time</meaning></definition>
+<definition id="fs-id1468264"><term>complement</term> <meaning id="fs-id2523978">enzymatic cascade of constitutive blood proteins that have antipathogen effects, including the direct killing of bacteria</meaning></definition>
+<definition id="fs-id2057487"><term>cytokine</term> <meaning id="fs-id1364173">soluble, short-range, cell-to-cell communication molecule</meaning></definition>
+<definition id="fs-id1522323"><term>early induced immune response</term> <meaning id="fs-id2203576">includes antimicrobial proteins stimulated during the first several days of an infection</meaning></definition>
+<definition id="fs-id1707102"><term>fas ligand</term> <meaning id="fs-id1521418">molecule expressed on cytotoxic T cells and NK cells that binds to the fas molecule on a target cell and induces it do undergo apoptosis</meaning></definition>
+<definition id="fs-id2338384"><term>granzyme</term> <meaning id="fs-id2662917">apoptosis-inducing substance contained in granules of NK cells and cytotoxic T cells</meaning></definition>
+<definition id="fs-id2268477"><term>histamine</term> <meaning id="fs-id1978082">vasoactive mediator in granules of mast cells and is the primary cause of allergies and anaphylactic shock</meaning></definition>
+<definition id="fs-id1257697"><term>inflammation</term> <meaning id="fs-id1395192">basic innate immune response characterized by heat, redness, pain, and swelling</meaning></definition>
+<definition id="fs-id2344917"><term>interferons</term> <meaning id="fs-id2101699">early induced proteins made in virally infected cells that cause nearby cells to make antiviral proteins</meaning></definition>
+<definition id="fs-id2176173"><term>macrophage</term> <meaning id="fs-id1637421">ameboid phagocyte found in several tissues throughout the body</meaning></definition>
+<definition id="fs-id802476"><term>mast cell</term> <meaning id="fs-id1617766">cell found in the skin and the lining of body cells that contains cytoplasmic granules with vasoactive mediators such as histamine</meaning></definition>
+<definition id="fs-id2142368"><term>monocyte</term> <meaning id="fs-id2032794">precursor to macrophages and dendritic cells seen in the blood</meaning></definition>
+<definition id="fs-id2309117"><term>neutrophil</term> <meaning id="fs-id2061658">phagocytic white blood cell recruited from the bloodstream to the site of infection via the bloodstream</meaning></definition>
+<definition id="fs-id2526595"><term>opsonization</term> <meaning id="fs-id1389560">enhancement of phagocytosis by the binding of antibody or antimicrobial protein</meaning></definition>
+<definition id="fs-id1478541"><term>pattern recognition receptor (PRR)</term> <meaning id="fs-id2349900">leukocyte receptor that binds to specific cell wall components of different bacterial species</meaning></definition>
+<definition id="fs-id2019048"><term>perforin</term> <meaning id="fs-id2653172">molecule in NK cell and cytotoxic T cell granules that form pores in the membrane of a target cell</meaning></definition>
+<definition id="fs-id1747492"><term>phagocytosis</term> <meaning id="fs-id2023644">movement of material from the outside to the inside of the cells via vesicles made from invaginations of the plasma membrane</meaning></definition>
+</glossary>
+</document>

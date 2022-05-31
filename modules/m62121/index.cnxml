@@ -1,0 +1,85 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Erythrocytes (Chapter 11)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62121</md:content-id>
+  <md:title>Erythrocytes (Chapter 11)</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the anatomy of erythrocytes</item>
+<item>Discuss the various steps in the lifecycle of an erythrocyte</item>
+<item>Explain the composition and function of hemoglobin</item>
+</list></md:abstract>
+  <md:uuid>d4ca933d-69db-4beb-ae04-4981ce5d57ac</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2057378">The <term>erythrocyte</term>, commonly known as a red blood cell (or RBC), is by far the most common formed element: A single drop of blood contains millions of erythrocytes and just thousands of leukocytes.</para><figure id="fig-ch19_03_01"><title>Summary of Formed Elements in Blood </title><media id="fs-id1748200" alt="This table shows the different types of cells present in blood, the number of cells, their appearance, and a summary of their function.">
+<image mime-type="image/jpg" src="../../media/1914_Table_19_3_1.jpg" width="600"/>
+</media>
+</figure><section id="fs-id2410347">
+<title>Hemoglobin</title>
+<para id="fs-id1890794"><term>Hemoglobin</term> is a large molecule made up of proteins and iron. It consists of four folded chains of a protein called <term>globin</term>, designated alpha 1 and 2, and beta 1 and 2 (<link target-id="fig-ch19_03_03" document=""/><emphasis effect="bold">a</emphasis>). Each of these globin molecules is bound to a red pigment molecule called <term>heme</term>, which contains an ion of iron (Fe<sup>2+</sup>) (<link target-id="fig-ch19_03_03" document=""/><emphasis effect="bold">b</emphasis>).</para><figure id="fig-ch19_03_03"><title>Hemoglobin </title><media id="fs-id2677186" alt="This figure shows the structure of hemoglobin. The left panel shows the protein structure and the right panel shows the chemical formula.">
+<image mime-type="image/jpg" src="../../media/1904_Hemoglobin.jpg" width="500"/>
+</media>
+<caption>(a) A molecule of hemoglobin contains four globin proteins, each of which is bound to one molecule of the iron-containing pigment heme. (b) A single erythrocyte can contain 300 million hemoglobin molecules, and thus more than 1 billion oxygen molecules.</caption></figure><para id="fs-id2835106">Each iron ion in the heme can bind to one oxygen molecule; therefore, each hemoglobin molecule can transport four oxygen molecules. An individual erythrocyte may contain about 300 million hemoglobin molecules, and therefore can bind to and transport up to 1.2 billion oxygen molecules (see <link target-id="fig-ch19_03_03" document=""/><emphasis effect="bold">b</emphasis>).</para>
+<para id="fs-id2361336">In the lungs, hemoglobin picks up oxygen, which binds to the iron ions, forming <term>oxyhemoglobin</term>. The bright red, oxygenated hemoglobin travels to the body tissues, where it releases some of the oxygen molecules, becoming darker red <term>deoxyhemoglobin</term>, sometimes referred to as reduced hemoglobin.</para><para id="fs-id2056826">Populations living at high elevations, with basically and mostly lower levels of oxygen in the atmosphere, naturally maintain a hematocrit higher than people living at sea level. As a result, people traveling to high elevations may experience symptoms of hypoxemia, such as fatigue, headache, and shortness of breath, for a few days after their arrival. In response to the hypoxemia, the kidneys secrete EPO to step up the production of erythrocytes until homeostasis is achieved once again. To avoid the symptoms of hypoxemia, or altitude sickness, mountain climbers typically rest for several days to a week or more at a series of camps situated at increasing elevations to allow EPO levels and, consequently, erythrocyte counts to rise. When climbing the tallest peaks, such as Mt. Everest and K2 in the Himalayas, many mountain climbers rely upon bottled oxygen as they near the summit.</para></section>
+<section id="fs-id2669609">
+<title>Lifecycle of Erythrocytes</title>
+<para id="fs-id1592644">Erythrocytes live up to 120 days in the circulation, after which the worn-out cells are removed by a type of myeloid phagocytic cell called a <term>macrophage</term>, located primarily within the bone marrow, liver, and spleen. The components of the degraded erythrocytes’ hemoglobin are further processed as follows:</para>
+<list id="fs-id1405027" list-type="bulleted">
+<item>Globin, the protein portion of hemoglobin, is broken down into amino acids, which can be sent back to the bone marrow to be used in the production of new erythrocytes. Hemoglobin that is not phagocytized is broken down in the circulation, releasing alpha and beta chains that are removed from circulation by the kidneys.</item>
+<item>The iron contained in the heme portion of hemoglobin may be stored in the liver or spleen, primarily in the form of ferritin or hemosiderin, or carried through the bloodstream by transferrin to the red bone marrow for recycling into new erythrocytes.</item>
+<item>The non-iron portion of heme is degraded into the waste product <term>biliverdin</term>, a green pigment, and then into another waste product, <term>bilirubin</term>, a yellow pigment. Bilirubin binds to albumin and travels in the blood to the liver, which uses it in the manufacture of bile, a compound released into the intestines to help emulsify dietary fats. In the large intestine, bacteria breaks the bilirubin apart from the bile and converts it to urobilinogen and then into stercobilin. It is then eliminated from the body in the feces. Broad-spectrum antibiotics typically eliminate these bacteria as well and may alter the color of feces. The kidneys also remove any circulating bilirubin and other related metabolic byproducts such as urobilins and secrete them into the urine.</item></list>
+<para id="fs-id2041866">The erythrocyte lifecycle is summarized in <link target-id="fig-ch19_03_04" document=""/>.</para>
+<figure id="fig-ch19_03_04"><title>Erythrocyte Lifecycle </title><media id="fs-id1700611" alt="This flow chart shows the life cycle of a red blood cell. The first step is the hemopoeisis of erythrocytes in the bone marrow. Further steps in this diagram show the passage of erythrocytes through the blood stream, the breakdown of heme protein, and liver function.">
+<image mime-type="image/jpg" src="../../media/1905_Erythrocyte_Life_Cycle.jpg" width="600"/>
+</media>
+<caption>Erythrocytes are produced in the bone marrow and sent into the circulation. At the end of their lifecycle, they are destroyed by macrophages, and their components are recycled.</caption></figure></section>
+<section id="fs-id1862164"><title>Disorders of Erythrocytes</title><para id="fs-id1381901">The size, shape, and number of erythrocytes, and the number of hemoglobin molecules can have a major impact on a person’s health. When the number of RBCs or hemoglobin is deficient, the general condition is called <term>anemia</term>. There are more than 400 types of anemia.</para><list id="fs-id2607260" list-type="bulleted"><item>A characteristic change in the shape of erythrocytes is seen in <term>sickle cell disease</term> (also referred to as sickle cell anemia). A genetic disorder, it is caused by production of an abnormal type of hemoglobin, called hemoglobin S, which delivers less oxygen to tissues and causes erythrocytes to assume a sickle (or crescent) shape, especially at low oxygen concentrations (<link target-id="fig-ch19_03_05" document=""/>). These abnormally shaped cells can then become lodged in narrow capillaries because they are unable to fold in on themselves to squeeze through, blocking blood flow to tissues and causing a variety of serious problems from painful joints to delayed growth and even blindness and cerebrovascular accidents (strokes).</item></list><figure id="fig-ch19_03_05"><title>Sickle Cells </title><media id="fs-id2403652" alt="This photograph shows red blood cells of a person suffering from sickle cell anemia. Instead of being discoid shaped like healthy blood cells, sickle red blood cells are shaped like a sickle.">
+<image mime-type="image/jpg" src="../../media/1911_Sickle_Cells.jpg" width="300"/>
+</media>
+<caption>Sickle cell anemia is caused by a mutation in one of the hemoglobin genes. Erythrocytes produce an abnormal type of hemoglobin, which causes the cell to take on a sickle or crescent shape. (credit: Janice Haney Carr)</caption></figure><para id="fs-id2187871">In contrast to anemia, an elevated RBC count is called <term>polycythemia</term> and is detected in a patient’s elevated hematocrit. It can occur transiently in a person who is dehydrated; when water intake is inadequate or water losses are excessive, the plasma volume falls. As a result, the hematocrit rises. For reasons mentioned earlier, a mild form of polycythemia is chronic but normal in people living at high altitudes. Some elite athletes train at high elevations specifically to induce this phenomenon. Finally, a type of bone marrow disease called polycythemia vera (from the Greek vera = “true”) causes an excessive production of immature erythrocytes. Polycythemia vera can dangerously elevate the viscosity of blood, raising blood pressure and making it more difficult for the heart to pump blood throughout the body. It is a relatively rare disease that occurs more often in men than women, and is more likely to be present in elderly patients those over 60 years of age.</para><para id="eip-285">Iron deficiency anemia is the most common type and results when the amount of available iron is insufficient to allow production of sufficient heme. Vitamin-deficient anemias generally involve insufficient vitamin B12 and folate. Assorted disease processes can also interfere with the production and formation of RBCs and hemoglobin. If myeloid stem cells are defective or replaced by cancer cells, there will be insufficient quantities of RBCs produced. Various disease processes also can lead to anemias. These include chronic kidney diseases often associated with a decreased production of EPO, hypothyroidism, some forms of cancer, lupus, and rheumatoid arthritis.
+</para>
+</section><section id="fs-id2927989" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1645145">The most abundant formed elements in blood, erythrocytes are red, biconcave disks packed with an oxygen-carrying compound called hemoglobin. The hemoglobin molecule contains four globin proteins bound to a pigment molecule called heme, which contains an ion of iron. In the bloodstream, iron picks up oxygen in the lungs and drops it off in the tissues; the amino acids in hemoglobin then transport carbon dioxide from the tissues back to the lungs. Erythrocytes live only 120 days on average, and thus must be continually replaced. Worn-out erythrocytes are phagocytized by macrophages and their hemoglobin is broken down. The breakdown products are recycled or removed as wastes: Globin is broken down into amino acids for synthesis of new proteins; iron is stored in the liver or spleen or used by the bone marrow for production of new erythrocytes; and the remnants of heme are converted into bilirubin, or other waste products that are taken up by the liver and excreted in the bile or removed by the kidneys. Anemia is a deficiency of RBCs or hemoglobin, whereas polycythemia is an excess of RBCs.</para>
+</section>
+<section id="fs-id1371892" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id2765686">
+<problem id="fs-id2103338"><para id="fs-id2059721">A young woman has been experiencing unusually heavy menstrual bleeding for several years. She follows a strict vegan diet (no animal foods). She is at risk for what disorder, and why?</para></problem>
+<solution id="fs-id1927658"><label/>
+<para id="fs-id2655543">She is at risk for anemia, because her unusually heavy menstrual bleeding results in excessive loss of erythrocytes each month. At the same time, her vegan diet means that she does not have dietary sources of heme iron. The non-heme iron she consumes in plant foods is not as well absorbed as heme iron.</para>
+</solution>
+</exercise>
+<exercise id="fs-id2204405">
+<problem id="fs-id2286230"><para id="fs-id2286231">A patient has thalassemia, a genetic disorder characterized by abnormal synthesis of globin proteins and excessive destruction of erythrocytes. This patient is jaundiced and is found to have an excessive level of bilirubin in his blood. Explain the connection.</para></problem>
+<solution id="fs-id2517400"><label/>
+<para id="fs-id1400972">Bilirubin is a breakdown product of the non-iron component of heme, which is cleaved from globin when erythrocytes are degraded. Excessive erythrocyte destruction would deposit excessive bilirubin in the blood. Bilirubin is a yellowish pigment, and high blood levels can manifest as yellowed skin.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id2135033"><term>anemia</term> <meaning id="fs-id2585740">deficiency of red blood cells or hemoglobin</meaning></definition>
+<definition id="fs-id2526646"><term>bilirubin</term> <meaning id="fs-id2361836">yellowish bile pigment produced when iron is removed from heme and is further broken down into waste products</meaning></definition>
+<definition id="fs-id2587908"><term>biliverdin</term> <meaning id="fs-id2786110">green bile pigment produced when the non-iron portion of heme is degraded into a waste product; converted to bilirubin in the liver</meaning></definition>
+<definition id="fs-id2480174"><term>carbaminohemoglobin</term> <meaning id="fs-id1700361">compound of carbon dioxide and hemoglobin, and one of the ways in which carbon dioxide is carried in the blood</meaning></definition>
+<definition id="fs-id2572732"><term>deoxyhemoglobin</term> <meaning id="fs-id2052046">molecule of hemoglobin without an oxygen molecule bound to it</meaning></definition>
+<definition id="fs-id2355300"><term>erythrocyte</term> <meaning id="fs-id2290626">(also, red blood cell) mature myeloid blood cell that is composed mostly of hemoglobin and functions primarily in the transportation of oxygen and carbon dioxide</meaning></definition>
+<definition id="fs-id2019296"><term>ferritin</term> <meaning id="fs-id2128593">protein-containing storage form of iron found in the bone marrow, liver, and spleen</meaning></definition>
+<definition id="fs-id2372043"><term>globin</term> <meaning id="fs-id1721207">heme-containing globular protein that is a constituent of hemoglobin</meaning></definition>
+<definition id="fs-id2638199"><term>heme</term> <meaning id="fs-id2575994">red, iron-containing pigment to which oxygen binds in hemoglobin</meaning></definition>
+<definition id="fs-id2050107"><term>hemoglobin</term> <meaning id="fs-id1723771">oxygen-carrying compound in erythrocytes</meaning></definition>
+<definition id="fs-id2677769"><term>hemosiderin</term> <meaning id="fs-id2611913">protein-containing storage form of iron found in the bone marrow, liver, and spleen</meaning></definition>
+<definition id="fs-id2175909"><term>hypoxemia</term> <meaning id="fs-id2278497">below-normal level of oxygen saturation of blood (typically &lt;95 percent)</meaning></definition>
+<definition id="fs-id2007601"><term>macrophage</term> <meaning id="fs-id2428073">phagocytic cell of the myeloid lineage; a matured monocyte</meaning></definition>
+<definition id="fs-id2453353"><term>oxyhemoglobin</term> <meaning id="fs-id2473122">molecule of hemoglobin to which oxygen is bound</meaning></definition>
+<definition id="fs-id2159189"><term>polycythemia</term> <meaning id="fs-id1972565">elevated level of hemoglobin, whether adaptive or pathological</meaning></definition>
+<definition id="fs-id2115414"><term>reticulocyte</term> <meaning id="fs-id1698963">immature erythrocyte that may still contain fragments of organelles</meaning></definition>
+<definition id="fs-id2279440"><term>sickle cell disease</term> <meaning id="fs-id2540227">(also, sickle cell anemia) inherited blood disorder in which hemoglobin molecules are malformed, leading to the breakdown of RBCs that take on a characteristic sickle shape</meaning></definition>
+<definition id="fs-id2130872"><term>thalassemia</term> <meaning id="fs-id2143926">inherited blood disorder in which maturation of RBCs does not proceed normally, leading to abnormal formation of hemoglobin and the destruction of RBCs</meaning></definition>
+<definition id="fs-id2441860"><term>transferrin</term> <meaning id="fs-id2024505">plasma protein that binds reversibly to iron and distributes it throughout the body</meaning></definition>
+</glossary>
+</document>

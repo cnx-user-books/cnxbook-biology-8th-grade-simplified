@@ -1,0 +1,127 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Cell Membrane</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62636</md:content-id>
+  <md:title>The Cell Membrane</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the molecular components that make up the cell membrane</item>
+<item>Explain the major features and properties of the cell membrane</item>
+<item>Differentiate between materials that can and cannot diffuse through the lipid bilayer</item>
+<item>Compare and contrast different types of passive transport with active transport, providing examples of each</item>
+</list></md:abstract>
+  <md:uuid>9014e041-097d-4dc4-93ba-eb6ba6c33bdd</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1455946">Despite differences in structure and function, all living cells in multicellular organisms have a surrounding cell membrane. As the outer layer of your skin separates your body from its environment, the cell membrane (also known as the plasma membrane) separates the inner side of a cell from its outer environment. This cell membrane provides a protective barrier around the cell and regulates which materials can pass in or out.</para><section id="fs-id2259833">
+<title>Structure and Composition of the Cell Membrane</title>
+<para id="fs-id1859725">The <term>cell membrane</term> is an extremely flexible structure composed primarily of back-to-back phospholipids (a “bilayer”). Cholesterol is also present, which gives the smoothness to the membrane, and there are various proteins embedded within the membrane that have a different functions.</para><para id="fs-id1524241">A single phospholipid molecule has a phosphate group on one end, called the “head,” and two side-by-side chains of fatty acids that make up the lipid tails (<link target-id="fig-ch03_01_01" document=""/>). The phosphate group is negatively charged, making the head polar and hydrophilic—or “water loving.” A <term>hydrophilic</term> molecule (or region of a molecule) is one that is attracted to water. The phosphate heads are thus attracted to the water molecules of both the extracellular and intracellular environments. The lipid tails, on the other hand, are uncharged, or nonpolar, and are hydrophobic—or “afraid of water.” A <term>hydrophobic</term> molecule (or region of a molecule) repels and is repelled by water. Some lipid tails consist of saturated fatty acids and some contain unsaturated fatty acids. This combination adds to the fluidity of the tails that are constantly in motion. Phospholipids are thus amphipathic molecules. An <term>amphipathic</term> molecule is one that contains both a hydrophilic and a hydrophobic region. In fact, soap works to remove oil and grease stains because it has amphipathic properties. The hydrophilic portion can dissolve in water while the hydrophobic portion can trap grease that then can be washed away.</para><figure id="fig-ch03_01_01"><title>Phospholipid Structure </title><media id="fs-id2127824" alt="This diagram shows the structure of a phospholipid. The hydrophilic head group is shown as a pink sphere and the two tails are shown as yellow rectangles.">
+<image mime-type="image/jpg" src="../../media/0301_Phospholipid_Structure.jpg" width="280"/>
+</media>
+<caption>A phospholipid molecule consists of a polar phosphate “head,” which is hydrophilic and a non-polar lipid “tail,” which is hydrophobic. Unsaturated fatty acids result in kinks in the hydrophobic tails.</caption></figure><para id="fs-id2035346">The cell membrane consists of two layers of phospholipids. The lipid tails of one layer face the lipid tails of the other layer, meeting at the interface of the two layers. The phospholipid heads face outward, one layer exposed to the inner side of the cell and one layer exposed to the outer side (<link target-id="fig-ch03_01_02" document=""/>). Because the phosphate groups are polar and hydrophilic, they are attracted to water in the intracellular fluid.<term> Intracellular fluid (ICF)</term> is the fluid interior of the cell. The phosphate groups are also attracted to the extracellular fluid. <term>Extracellular fluid (ECF)</term> is the fluid environment outside the enclosure of the cell membrane. <term>Interstitial fluid (IF)</term> is the term given to extracellular fluid not contained within blood vessels. Because the lipid tails are hydrophobic, they meet in the inner region of the membrane, excluding watery intracellular and extracellular fluid from this space. The cell membrane has many proteins, as well as other lipids (such as cholesterol), that are associated with the phospholipid bilayer. An important feature of the membrane is that it remains fluid; the lipids and proteins in the cell membrane are not rigidly locked in place.</para><figure id="fig-ch03_01_02"><title>Phospolipid Bilayer</title><media id="fs-id1977636" alt="This diagram shows a phospholipid bilayer. Two sets of phospholipids are arranged such that the hydrophobic tails are facing each other and the hydrophilic heads are facing the extracellular environment.">
+<image mime-type="image/jpg" src="../../media/0302_Phospholipid_Bilayer.jpg" width="280"/>
+</media>
+<caption>The phospholipid bilayer consists of two sheets of phospholipids, arranged tail to tail. The hydrophobic tails associate with one another, forming the interior of the membrane. The polar heads contact the fluid inside and outside of the cell.</caption></figure></section>
+<section id="fs-id1476432">
+<title>Membrane Proteins</title>
+<para id="fs-id1858979">The lipid bilayer forms the basis of the cell membrane, but it is peppered throughout with various proteins. Two different types of proteins that are commonly associated with the cell membrane are the integral proteins and peripheral protein (<link target-id="fig-ch03_01_03" document=""/>). As its name suggests, an <term>integral protein</term> is a protein that is found in the membrane. A <term>channel protein</term> is an example of an integral protein that selectively allows particular materials, such as certain ions, to pass into or out of the cell.</para><figure id="fig-ch03_01_03"><title>Cell Membrane</title><media id="fs-id1240026" alt="This image shows a lipid bilayer with different types of proteins, lipids and cholesterol embedded in it.">
+<image mime-type="image/jpg" src="../../media/0303_Lipid_Bilayer_With_Various_Components.jpg" width="495"/>
+</media>
+<caption> The cell membrane of the cell is a phospholipid bilayer containing many different molecular components, including proteins and cholesterol, some with carbohydrate groups attached.</caption></figure><para id="fs-id1417839">Another important group of integral proteins are cell recognition proteins, which serve to mark a cell’s identity so that it can be recognized by other cells. A <term>receptor</term> is a type of recognition protein that can selectively bind a specific molecule outside the cell, and this binding makes a chemical reaction within the cell. A <term>ligand</term> is the specific molecule that binds to and activates a receptor. Some integral proteins serve dual roles as both a receptor and an ion channel. One example of a receptor-ligand interaction is the receptors on nerve cells that bind neurotransmitters, such as dopamine. When a dopamine molecule binds to a dopamine receptor protein, a channel within the transmembrane protein opens to allow certain ions to flow into the cell.</para><para id="fs-id1542775">Some integral membrane proteins are glycoproteins. A <term>glycoprotein</term> is a protein that has carbohydrate molecules attached, which are found in the extracellular matrix. The attached carbohydrate tags on glycoproteins aid in cell recognition. The carbohydrates that extend from membrane proteins and even from some membrane lipids collectively form the glycocalyx. The <term>glycocalyx</term> is a coating around the cell formed from glycoproteins and other carbohydrates attached to the cell membrane. The glycocalyx can have various roles. For example, it may have molecules that allow the cell to bind to another cell, it may contain receptors for hormones, or it might have enzymes to break down nutrients. The glycocalyces found in a person’s body are products of that person’s genetic makeup. They give each of the individual’s trillions of cells the “identity” of belonging in the person’s body. This identity is the primary way that a person’s immune defense cells “know” not to attack the person’s own body cells, but it also is the reason organs donated by another person might be rejected.</para><para id="fs-id1955600"><term>Peripheral proteins</term> are typically found on the inner or outer surface of the lipid bilayer but can also be attached to the internal or external surface of an integral protein. These proteins typically perform a specific function for the cell. Some peripheral proteins on the surface of intestinal cells, for example, act as digestive enzymes to break down nutrients to sizes that can pass through the cells and into the bloodstream.</para></section>
+<section id="fs-id1863415" class="summary">
+<title>Chapter Review</title>
+<para id="fs-id1449977">The cell membrane provides a barrier around the cell, separating its internal components from the extracellular environment. It is composed of a phospholipid bilayer, with hydrophobic internal lipid “tails” and hydrophilic external phosphate “heads.” Various membrane proteins are scattered throughout the bilayer, both inserted within it and attached to it peripherally. The cell membrane is selectively permeable, allowing only a limited number of materials to diffuse through its lipid bilayer. All materials that cross the membrane do so using passive (non energy-requiring) or active (energy-requiring) transport processes. During passive transport, materials move by simple diffusion or by facilitated diffusion through the membrane, down their concentration gradient. Water passes through the membrane in a diffusion process called osmosis. During active transport, energy is expended to assist material movement across the membrane in a direction against their concentration gradient. Active transport may take place with the help of protein pumps or through the use of vesicles.</para></section>
+<section id="fs-id746702" class="interactive-exercise">
+<title>Interactive Link Questions</title>
+<exercise id="fs-id1942720"><problem id="fs-id1494532"><para id="fs-id1481245">Visit this <link url="http://openstaxcollege.org/l/diffusion">link</link> to see diffusion and how it is propelled by the kinetic energy of molecules in solution. How does temperature affect diffusion rate, and why?</para></problem>
+<solution id="fs-id1211492">
+<label/>
+<para id="fs-id1177244">Higher temperatures speed up diffusion because molecules have more kinetic energy at higher temperatures.</para></solution>
+</exercise></section>
+<section id="fs-id1495386" class="multiple-choice">
+<title>Review Questions</title>
+<exercise id="fs-id1509790"><problem id="fs-id1188604"><para id="fs-id890519">Because they are found within the membrane, ion channels are examples of ________.</para>
+<list id="fs-id1142164" list-type="enumerated" number-style="lower-alpha">
+<item>receptor proteins</item>
+<item>integral proteins</item>
+<item>peripheral proteins</item>
+<item>glycoproteins</item>
+</list>
+</problem>
+<solution id="fs-id1143779">
+<label/>
+<para id="fs-id1005314">B</para>
+</solution>
+</exercise><exercise id="fs-id1490602">
+<problem id="fs-id1534548"><para id="fs-id1559583">The diffusion of substances within a solution tends to move those substances ________ their ________ gradient.</para><list id="fs-id921757" list-type="enumerated" number-style="lower-alpha">
+<item>up; electrical</item>
+<item>up; electrochemical</item>
+<item>down; pressure</item>
+<item>down; concentration</item>
+</list>
+</problem>
+<solution id="fs-id1282861">
+<label/>
+<para id="fs-id1269794">D</para>
+</solution>
+</exercise>
+</section>
+<section id="fs-id1526011" class="free-response">
+<title>Critical Thinking Questions</title>
+<exercise id="fs-id1230543">
+<problem id="fs-id1076026"><para id="fs-id1710865">What materials can easily diffuse through the lipid bilayer, and why?</para></problem>
+<solution id="fs-id692725"><label/>
+<para id="fs-id1476948">Only materials that are relatively small and nonpolar can easily diffuse through the lipid bilayer. Large particles cannot fit in between the individual phospholipids that are packed together, and polar molecules are repelled by the hydrophobic/nonpolar lipids that line the inside of the bilayer.</para>
+</solution>
+</exercise>
+<exercise id="fs-id757160">
+<problem id="fs-id1149097"><para id="fs-id813535">Why is receptor-mediated endocytosis said to be more selective than phagocytosis or pinocytosis?</para></problem>
+<solution id="fs-id1595153"><label/>
+<para id="fs-id1613614">Receptor-mediated endocytosis is more selective because the substances that are brought into the cell are the specific ligands that could bind to the receptors being endocytosed. Phagocytosis or pinocytosis, on the other hand, have no such receptor-ligand specificity, and bring in whatever materials happen to be close to the membrane when it is enveloped.</para>
+</solution>
+</exercise>
+<exercise id="fs-id1178583">
+<problem id="fs-id912696"><para id="fs-id2073060">What do osmosis, diffusion, filtration, and the movement of ions away from like charge all have in common? In what way do they differ?</para></problem>
+<solution id="fs-id1857320"><label/>
+<para id="fs-id1284062">These four phenomena are similar in the sense that they describe the movement of substances down a particular type of gradient. Osmosis and diffusion involve the movement of water and other substances down their concentration gradients, respectively. Filtration describes the movement of particles down a pressure gradient, and the movement of ions away from like charge describes their movement down their electrical gradient.</para>
+</solution>
+</exercise>
+</section>
+</content>
+<glossary>
+<definition id="fs-id1282943"><term>active transport</term> <meaning id="fs-id2168661">form of transport across the cell membrane that requires input of cellular energy</meaning></definition>
+<definition id="fs-id1944092"><term>amphipathic</term> <meaning id="fs-id890816">describes a molecule that exhibits a difference in polarity between its two ends, resulting in a difference in water solubility</meaning></definition>
+<definition id="fs-id1439676"><term>cell membrane</term> <meaning id="fs-id1273482">membrane surrounding all animal cells, composed of a lipid bilayer interspersed with various molecules; also known as plasma membrane</meaning></definition>
+<definition id="fs-id1200286"><term>channel protein</term> <meaning id="fs-id1532976">membrane-spanning protein that has an inner pore which allows the passage of one or more substances</meaning></definition>
+<definition id="fs-id1241660"><term>concentration gradient</term> <meaning id="fs-id1197530">difference in the concentration of a substance between two regions</meaning></definition>
+<definition id="fs-id2152811"><term>diffusion</term> <meaning id="fs-id1955545">movement of a substance from an area of higher concentration to one of lower concentration</meaning></definition>
+<definition id="fs-id1508127"><term>electrical gradient</term> <meaning id="fs-id1112848">difference in the electrical charge (potential) between two regions</meaning></definition>
+<definition id="fs-id1073343"><term>endocytosis</term> <meaning id="fs-id729327">import of material into the cell by formation of a membrane-bound vesicle</meaning></definition>
+<definition id="fs-id1102254"><term>exocytosis</term> <meaning id="fs-id1036626">export of a substance out of a cell by formation of a membrane-bound vesicle</meaning></definition>
+<definition id="fs-id1507946"><term>extracellular fluid (ECF)</term> <meaning id="fs-id1120144">fluid exterior to cells; includes the interstitial fluid, blood plasma, and fluid found in other reservoirs in the body</meaning></definition>
+<definition id="fs-id1212756"><term>facilitated diffusion</term> <meaning id="fs-id1301074">diffusion of a substance with the aid of a membrane protein</meaning></definition>
+<definition id="fs-id1518990"><term>glycocalyx</term> <meaning id="fs-id1503522">coating of sugar molecules that surrounds the cell membrane</meaning></definition>
+<definition id="fs-id1488700"><term>glycoprotein</term> <meaning id="fs-id2257116">protein that has one or more carbohydrates attached</meaning></definition>
+<definition id="fs-id913052"><term>hydrophilic</term> <meaning id="fs-id1242592">describes a substance or structure attracted to water</meaning></definition>
+<definition id="fs-id1510472"><term>hydrophobic</term> <meaning id="fs-id1234056">describes a substance or structure repelled by water</meaning></definition>
+<definition id="fs-id1740098"><term>hypertonic</term> <meaning id="fs-id1286938">describes a solution concentration that is higher than a reference concentration</meaning></definition>
+<definition id="fs-id1211869"><term>hypotonic</term> <meaning id="fs-id1433380">describes a solution concentration that is lower than a reference concentration</meaning></definition>
+<definition id="fs-id1520411"><term>integral protein</term> <meaning id="fs-id1417340">membrane-associated protein that spans the entire width of the lipid bilayer</meaning></definition>
+<definition id="fs-id1543027"><term>interstitial fluid (IF)</term> <meaning id="fs-id1535814">fluid in the small spaces between cells not contained within blood vessels</meaning></definition>
+<definition id="fs-id1105802"><term>intracellular fluid (ICF)</term> <meaning id="fs-id1315600">fluid in the cytosol of cells</meaning></definition>
+<definition id="fs-id1113884"><term>isotonic</term> <meaning id="fs-id1462446">describes a solution concentration that is the same as a reference concentration</meaning></definition>
+<definition id="fs-id1107187"><term>ligand</term> <meaning id="fs-id1119780">molecule that binds with specificity to a specific receptor molecule</meaning></definition>
+<definition id="fs-id1188576"><term>osmosis</term> <meaning id="fs-id1144114">diffusion of water molecules down their concentration gradient across a selectively permeable membrane</meaning></definition>
+<definition id="fs-id1570467"><term>passive transport</term> <meaning id="fs-id1661547">form of transport across the cell membrane that does not require input of cellular energy</meaning></definition>
+<definition id="fs-id793740"><term>peripheral protein</term> <meaning id="fs-id1540554">membrane-associated protein that does not span the width of the lipid bilayer, but is attached peripherally to integral proteins, membrane lipids, or other components of the membrane</meaning></definition>
+<definition id="fs-id1525067"><term>phagocytosis</term> <meaning id="fs-id1534009">endocytosis of large particles</meaning></definition>
+<definition id="fs-id1533571"><term>pinocytosis</term> <meaning id="fs-id1613843">endocytosis of fluid</meaning></definition>
+<definition id="fs-id1485883"><term>receptor</term> <meaning id="fs-id1173816">protein molecule that contains a binding site for another specific molecule (called a ligand)</meaning></definition>
+<definition id="fs-id1541158"><term>receptor-mediated endocytosis</term> <meaning id="fs-id1520716">endocytosis of ligands attached to membrane-bound receptors</meaning></definition>
+<definition id="fs-id1455074"><term>selective permeability</term> <meaning id="fs-id496500">feature of any barrier that allows certain substances to cross but excludes others</meaning></definition>
+<definition id="fs-id1141589"><term>sodium-potassium pump</term> <meaning id="fs-id1484398">(also, Na<sup>+</sup>/K<sup>+</sup> ATP-ase) membrane-embedded protein pump that uses ATP to move Na<sup>+</sup> out of a cell and K<sup>+</sup> into the cell</meaning></definition>
+<definition id="fs-id1076393"><term>vesicle</term> <meaning id="fs-id1692173">membrane-bound structure that contains materials within or outside of the cell</meaning></definition>
+</glossary>
+</document>
